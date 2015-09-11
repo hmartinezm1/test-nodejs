@@ -2,6 +2,7 @@
 Requirements Definition Document for database project application
 =================================================================
 1. Introduction
+===============
   1.1 Purpose: The purpose of this document is to define the requirements for our ICOM 5016 class project. This document is written for better understanding of the features that our application will have. 
   1.2 Scope
   1.3 Name of the product: Sweather 
