@@ -21,6 +21,7 @@ Requirements Definition Document for database project application
       1.9.4 PostgreSQL: Database for storing all the data of the application.
       1.9.5 Heroku: Server used to deploy the application.
 2. General Description
+=====================
   2.1 Product perspective
     This product is a social network that is categorized as an independent product. With this product users will become weather reporters and describe via status updates what the weather is like in their current location. Users will also become spectators. They will be able to look at friends post about weather. The full set of product specifications is described below. 
   2.3 Product Functions This application will let users do the following:
