@@ -7,7 +7,7 @@ Master Project Development Plan
 
   **1. Sprint 0: Conceptual Design and Development Plan** 
 
-    **1.1. Week 1**
+    **1.1 Week 1**
     *September 3: First meeting*
     
      * Think of theme for project
@@ -17,7 +17,7 @@ Master Project Development Plan
      * Analyze project description
      * Divide tasks
 
-    **1.2. Week 2**
+    **1.2 Week 2**
     *September 10: Second meeting*
     
      * Finish ER Diagram as a group
@@ -35,14 +35,14 @@ Master Project Development Plan
   **2. Sprint I: App GUI Design and DBMS instance**
 
 
-    **2.1. Week 3**
+    **2.1 Week 3**
     *September 17*
     
      * Discuss ER Mapping
      * Discuss DBMS instance
      * Update Gantt chart with percent completion
 
-    **2.2. Week 4**
+    **2.2 Week 4**
     *September 24*
     
      * Review ER Map
@@ -52,7 +52,7 @@ Master Project Development Plan
      * Update gantt chart
      * Finishing touches and preparations for happy hour
     
-    **3. Sprint II**
+  **3. Sprint II**
     
     **3.1. Week 5**
     *October 1*
@@ -76,7 +76,7 @@ Master Project Development Plan
      * Update gantt chart 
      * Finishing touches and preparations for happy hour
       
-    **4. Sprint III**
+  **4. Sprint III**
     
     **4.1. Week 8**
     *October 15*
@@ -99,7 +99,7 @@ Master Project Development Plan
      * Update gantt chart
      * Finishing touches and preparations for happy hour
     
-    **5. Sprint IV**
+  **5. Sprint IV**
     
     **5.1.Week 10**
     *October 29*
@@ -128,9 +128,9 @@ Master Project Development Plan
      * Update gantt chart
      * Finishing touches and preparations for happy hour
     
-    **6. Sprint V**
+  **6. Sprint V**
     
-    **6.1. Week 12**
+    **6.1 Week 12**
     *November 12*
     
      * Continue app development
@@ -139,7 +139,7 @@ Master Project Development Plan
        * Search by Business Pages
        * Search by Events
     
-    **6.2. Week 13**
+    **6.2 Week 13**
     *November 19*
     
      * Test cases
