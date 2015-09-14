@@ -4,24 +4,37 @@
  1. **Introduction**
 
   1.1 **Purpose**: The purpose of this document is to define the requirements for our ICOM 5016 class project. This document is written for better understanding of the features that our application will have. 
+  
   1.2 **Name of the product**: Sweather 
+  
   1.3 **Team Name**: Sweather Team
+  
   1.4 **Team members**: Alejandro Sánchez (*Project Manager*), Howard Martínez, José Rodriguez
+  
   1.5 **What the product will do**: This is a social network that permits users to post weather updates from their current location. The purpose of this app is to let users know and share local weather updates.  
+  
   1.6 **What the product won’t do**: It won’t be able to tell detail weather updates. This is because we want users to share their weather. 
+  
   1.7 **Benefits, goals and objectives**: Sometimes weather models are inaccurate or ambiguous. For example, if a user wants to go to the beach and the local news say that in a town far away from my hometown it is raining, the user would decide that it's better to stay home instead of going out, when in reality it's a perfectly sunny day at the beach. With this app we plan to fix this problem by having users become weather reporters. The goal is to have every user report weather conditions in their current locations so that other users can enjoy their day.
+  
   1.8 **Technologies used**:
       - *Angular.js:* It will be used for creating the front end of the web application.
       -   *Node.js + Express.js*: It will be used for the back end of the web application. Node.js + Espress.js will be the link between the database and the front end.
       - *Ionic Framework*: It will be used for adding mobile application elements and features to the web application.
       - *PostgreSQL*: Database for storing all the data of the application.
       - *Heroku*: Server used to deploy the application.
+      
  2. **General Description**
+ 3. 
   2.1 **Product perspective**:
     This product is a social network that is categorized as an independent product. With this product users will become weather reporters and describe via status updates what the weather is like in their current location. Users will also become spectators. They will be able to look at friends post about weather. The full set of product specifications is described below. 
+
     2.2 **Users of the product**: The users of this application are people who are smartphone owners. They do not need to be technically savvy as the interface for the application will be easy to use, user friendly and within the guidelines of smartphone applications.
+    
   2.3: **General Constraints**: Users who are not logged in or part of the social network cannot access or add information from the application.
+  
   2.4: **Assumptions and dependencies**: Depending on what is accomplished in each sprint, the specifications may change. Implementations may change depending on how well they are working.
+  
   2.5 **Product Functions**: This application will let users do the following:
 	  - **Create an account**: The user will be able to create an account from the application.
 	  - **Delete an account**: The user will be able to delete his/her account from the application.
