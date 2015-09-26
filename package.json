@@ -10,7 +10,7 @@
     "example",
     "heroku"
   ],
-  "author": "Alejandro-Sachez",
+  "author": "Howard-Martinez",
   "license": "MIT",
   "dependencies": {
     "ejs": "~1.0.0",
